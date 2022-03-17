@@ -1,0 +1,18 @@
+.content-resize {
+    /* cursor: crosshair; */
+    border: 1px solid #000000;
+    width:800px;
+    height: 500px;
+    resize: both;
+    overflow: auto;
+  }
+  /* svg {
+    cursor: crosshair;
+    border: 1px solid #000000;
+  } */
+
+  #myrect{
+
+    resize: both;
+    overflow: auto;
+  }
