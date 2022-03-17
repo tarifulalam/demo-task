@@ -1,0 +1,58 @@
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\appsettings.Development.json
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\appsettings.json
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.exe
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.deps.json
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.runtimeconfig.json
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.dll
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.pdb
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.csproj.AssemblyReference.cache
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.AssemblyInfoInputs.cache
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.AssemblyInfo.cs
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.csproj.CoreCompileInputs.cache
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\scopedcss\bundle\demoTestApi.styles.css
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.csproj.CopyComplete
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.dll
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\refint\demoTestApi.dll
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.pdb
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.genruntimeconfig.cache
+D:\test xam\demoTestApi\demoTestApi\obj\Debug\net6.0\ref\demoTestApi.dll
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\Cake.Core.dll
+D:\test xam\demoTestApi\demoTestApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\appsettings.Development.json
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\appsettings.json
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.exe
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.deps.json
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.runtimeconfig.json
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.dll
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\demoTestApi.pdb
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\Cake.Core.dll
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test\demoTestApi\demoTestApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.csproj.AssemblyReference.cache
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.AssemblyInfoInputs.cache
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.AssemblyInfo.cs
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.csproj.CoreCompileInputs.cache
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\scopedcss\bundle\demoTestApi.styles.css
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.csproj.CopyComplete
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.dll
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\refint\demoTestApi.dll
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.pdb
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\demoTestApi.genruntimeconfig.cache
+D:\test\demoTestApi\demoTestApi\obj\Debug\net6.0\ref\demoTestApi.dll
